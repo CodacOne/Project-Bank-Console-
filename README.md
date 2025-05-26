@@ -1,7 +1,7 @@
 
 # 💳 Bank Management System - Console-Based in C++
 
-## 🇸🇾 النسخة العربية
+##  النسخة العربية
 
 يُعتبر هذا المشروع تطبيقًا عمليًا متكاملًا لنظام بنك مبني باستخدام لغة C++ فقط، دون استخدام أي واجهات رسومية (GUI)، وإنما من خلال شاشة الكونسول. تم تنفيذ المشروع وفق مبدأ البرمجة الكائنية (OOP) وتنظيم الكود ضمن ملفات رأسية ومصدرية متعددة.
 
@@ -39,7 +39,7 @@
 
 ---
 
-## 🇬🇧 English Version
+##  English Version
 
 This is a fully functional console-based **Bank System** developed in C++ using Object-Oriented Programming principles. No GUI libraries were used; the system operates entirely through the console.
 
